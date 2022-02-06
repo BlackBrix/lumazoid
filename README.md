@@ -23,4 +23,10 @@ your_sketchbook
      +--Lumazoid.ino
 ```
 
-In the Arduino IDE, select board type "Arduino Uno" to upload to the Lumazoid.
+In the Arduino IDE, select board type "Arduino Uno" to upload to the Lumazoid.  
+  
+https://youtu.be/Vjp7iLEZsX4  
+https://youtu.be/2BDE81b42Ac  
+https://youtu.be/lYz1uqOQcGg  
+https://youtu.be/453p5HPAYZY  
+https://youtu.be/N-TBdfP13BE  
