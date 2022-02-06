@@ -30,3 +30,6 @@ https://youtu.be/2BDE81b42Ac
 https://youtu.be/lYz1uqOQcGg  
 https://youtu.be/453p5HPAYZY  
 https://youtu.be/N-TBdfP13BE  
+  
+Forum:  
+https://nootropicdesign.com/store/forums/
